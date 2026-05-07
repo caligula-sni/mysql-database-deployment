@@ -1,4 +1,4 @@
-# 🗄️ MySQL Database Deployment — Relational Schema Setup
+#  MySQL Database Deployment — Relational Schema Setup
 
 > A complete relational database schema for a Farm Management System, with setup, import scripts, and user configuration.
 
